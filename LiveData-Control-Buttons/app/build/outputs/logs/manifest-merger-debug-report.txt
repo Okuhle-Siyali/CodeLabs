@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/69c05d8525da4dd65c3c3eade22a1009/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/a0b48c6038f80a6e749e023a19b719e1/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha09.aar/535d70b0e249db39d742dd3fd9d54086/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha09.aar/8a97308feb60f1cc4045e5364b8f3f7f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/393c5933cfab1a8361f432fa5a53cc3a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/938a52f1dd54312b308d0c1f89cbedab/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha09.aar/17988ee8813570a9f1dd9d1a07f6e6ee/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha09.aar/4d4ad7bd6780035726d82330d023d7da/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/84f8d569d9f82ed2400eb2c37a460927/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/5d40ea24a733c8ca6efce50dafc5c575/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/f74232d4e86eaf733ba4315149875eb9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/a372c28b1536f01f8ac782bb8dca1866/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/0e5c5016dc82062a75cd19fbf4a8f19b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9e85c326daa421a1f1af7d01c2ef0d1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/2fc66453e5b671c2697e544a8f04d4f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/12edbb8d630b09bf4244b6e64a8aa71f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha09.aar/7abbae66840077686f6c50ad7babfef2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha09.aar/3ce6200bea159f01df3318ae0369901a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/e809ef04354ba09505c43b23fafa7066/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/b93c8ad677efc5b846d5cd11802d3ce5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1d9bcd6f69ac2f500c507041543c6782/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c417148ec0ea620db03b52bf3f4e90c7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0ea56e8c102ccbbc47fed543a8c85ff1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1cad480f0bbf182edfeaf53d6b317364/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/8ff67108d9bc963e4ccbfa892b019d96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/69b89fa5cc3dfaf1e38cf0ad9391b668/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/3718d36562e804e0c4a5a0169d61cacb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/b2daf2afe01280eb231101be7c312c5a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/06d0924fc78d3ae8b4e1e12518258c09/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha09.aar/b4b29c3eb6edfe90601a68c6f8062a37/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha09.aar/2c4ff3285fa219ffb95b1b86897a286a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/db302efe1cdf41d5a8148c1abb3cd89c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/391b4264bf356e3ea983072bd042860a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3b99371ed154d3ad7b8859b8899ecd90/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/95cd2fa2648613f99eb522199fa551cb/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6d999042174174f1eb6cbe70318e38e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/f798b7ac283a6e70f9d0bbe3990f1e49/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/8cc0170d7f00e36bc4333075d1dc5871/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/9e03158913280ad1ba416d5f35b54a00/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/74c9d9381d2250b8edf03196fb8cde28/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/1910ee218b7d2b56c5a7406fbd94ba56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/955125b28e5914c37499238f019803f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/8c90cc8085e425a3eb1116e12414d9ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8b26aefb7804d680b8379e1ffa141905/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/48f7d0ec1016a45a11b6844809e784d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/220128cc3790d0d12c528ecf89a0769a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/36ce963b581a2e97d76323864ea93239/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:5:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/393c5933cfab1a8361f432fa5a53cc3a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/393c5933cfab1a8361f432fa5a53cc3a/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/84f8d569d9f82ed2400eb2c37a460927/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/84f8d569d9f82ed2400eb2c37a460927/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/f74232d4e86eaf733ba4315149875eb9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/f74232d4e86eaf733ba4315149875eb9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/db302efe1cdf41d5a8148c1abb3cd89c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/db302efe1cdf41d5a8148c1abb3cd89c/AndroidManifest.xml:22:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/95cd2fa2648613f99eb522199fa551cb/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/95cd2fa2648613f99eb522199fa551cb/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/db302efe1cdf41d5a8148c1abb3cd89c/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:9:9-68
+	android:icon
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:7:9-57
+	android:allowBackup
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.android.trackmysleepquality.MainActivity
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:16:27-74
+meta-data#preloaded_fonts
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:19:9-21:57
+	android:resource
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:21:13-54
+	android:name
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml:20:13-43
+uses-sdk
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/69c05d8525da4dd65c3c3eade22a1009/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/69c05d8525da4dd65c3c3eade22a1009/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/a0b48c6038f80a6e749e023a19b719e1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/a0b48c6038f80a6e749e023a19b719e1/AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha09.aar/535d70b0e249db39d742dd3fd9d54086/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha09.aar/535d70b0e249db39d742dd3fd9d54086/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha09.aar/8a97308feb60f1cc4045e5364b8f3f7f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha09.aar/8a97308feb60f1cc4045e5364b8f3f7f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/393c5933cfab1a8361f432fa5a53cc3a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/material-1.0.0.aar/393c5933cfab1a8361f432fa5a53cc3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/938a52f1dd54312b308d0c1f89cbedab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.2.aar/938a52f1dd54312b308d0c1f89cbedab/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha09.aar/17988ee8813570a9f1dd9d1a07f6e6ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha09.aar/17988ee8813570a9f1dd9d1a07f6e6ee/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha09.aar/4d4ad7bd6780035726d82330d023d7da/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha09.aar/4d4ad7bd6780035726d82330d023d7da/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/84f8d569d9f82ed2400eb2c37a460927/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-extensions-2.0.0.aar/84f8d569d9f82ed2400eb2c37a460927/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/5d40ea24a733c8ca6efce50dafc5c575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0.aar/5d40ea24a733c8ca6efce50dafc5c575/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/f74232d4e86eaf733ba4315149875eb9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/constraintlayout-1.1.3.aar/f74232d4e86eaf733ba4315149875eb9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/a372c28b1536f01f8ac782bb8dca1866/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-ktx-1.0.1.aar/a372c28b1536f01f8ac782bb8dca1866/AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/0e5c5016dc82062a75cd19fbf4a8f19b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/room-runtime-2.0.0.aar/0e5c5016dc82062a75cd19fbf4a8f19b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9e85c326daa421a1f1af7d01c2ef0d1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/9e85c326daa421a1f1af7d01c2ef0d1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/2fc66453e5b671c2697e544a8f04d4f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/recyclerview-1.0.0.aar/2fc66453e5b671c2697e544a8f04d4f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/12edbb8d630b09bf4244b6e64a8aa71f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/12edbb8d630b09bf4244b6e64a8aa71f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha09.aar/7abbae66840077686f6c50ad7babfef2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha09.aar/7abbae66840077686f6c50ad7babfef2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha09.aar/3ce6200bea159f01df3318ae0369901a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha09.aar/3ce6200bea159f01df3318ae0369901a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/e809ef04354ba09505c43b23fafa7066/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/e809ef04354ba09505c43b23fafa7066/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/b93c8ad677efc5b846d5cd11802d3ce5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/b93c8ad677efc5b846d5cd11802d3ce5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1d9bcd6f69ac2f500c507041543c6782/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/1d9bcd6f69ac2f500c507041543c6782/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c417148ec0ea620db03b52bf3f4e90c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c417148ec0ea620db03b52bf3f4e90c7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0ea56e8c102ccbbc47fed543a8c85ff1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/0ea56e8c102ccbbc47fed543a8c85ff1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1cad480f0bbf182edfeaf53d6b317364/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1cad480f0bbf182edfeaf53d6b317364/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/8ff67108d9bc963e4ccbfa892b019d96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/8ff67108d9bc963e4ccbfa892b019d96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/69b89fa5cc3dfaf1e38cf0ad9391b668/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/69b89fa5cc3dfaf1e38cf0ad9391b668/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/3718d36562e804e0c4a5a0169d61cacb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/3718d36562e804e0c4a5a0169d61cacb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/b2daf2afe01280eb231101be7c312c5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/b2daf2afe01280eb231101be7c312c5a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/06d0924fc78d3ae8b4e1e12518258c09/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/06d0924fc78d3ae8b4e1e12518258c09/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha09.aar/b4b29c3eb6edfe90601a68c6f8062a37/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha09.aar/b4b29c3eb6edfe90601a68c6f8062a37/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha09.aar/2c4ff3285fa219ffb95b1b86897a286a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha09] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha09.aar/2c4ff3285fa219ffb95b1b86897a286a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/db302efe1cdf41d5a8148c1abb3cd89c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-1.0.1.aar/db302efe1cdf41d5a8148c1abb3cd89c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/391b4264bf356e3ea983072bd042860a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-service-2.0.0.aar/391b4264bf356e3ea983072bd042860a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3b99371ed154d3ad7b8859b8899ecd90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/3b99371ed154d3ad7b8859b8899ecd90/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/95cd2fa2648613f99eb522199fa551cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/95cd2fa2648613f99eb522199fa551cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6d999042174174f1eb6cbe70318e38e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/6d999042174174f1eb6cbe70318e38e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/f798b7ac283a6e70f9d0bbe3990f1e49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/f798b7ac283a6e70f9d0bbe3990f1e49/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/8cc0170d7f00e36bc4333075d1dc5871/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/sqlite-framework-2.0.0.aar/8cc0170d7f00e36bc4333075d1dc5871/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/9e03158913280ad1ba416d5f35b54a00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/sqlite-2.0.0.aar/9e03158913280ad1ba416d5f35b54a00/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/74c9d9381d2250b8edf03196fb8cde28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/74c9d9381d2250b8edf03196fb8cde28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/1910ee218b7d2b56c5a7406fbd94ba56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/1910ee218b7d2b56c5a7406fbd94ba56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/955125b28e5914c37499238f019803f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/955125b28e5914c37499238f019803f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/8c90cc8085e425a3eb1116e12414d9ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/8c90cc8085e425a3eb1116e12414d9ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8b26aefb7804d680b8379e1ffa141905/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/8b26aefb7804d680b8379e1ffa141905/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/48f7d0ec1016a45a11b6844809e784d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/48f7d0ec1016a45a11b6844809e784d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/220128cc3790d0d12c528ecf89a0769a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/220128cc3790d0d12c528ecf89a0769a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/36ce963b581a2e97d76323864ea93239/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/36ce963b581a2e97d76323864ea93239/AndroidManifest.xml:20:5-44
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/LiveData-Control-Buttons/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-1/files-1.1/lifecycle-process-2.0.0.aar/728a6ae9a44bdc926742af3718848097/AndroidManifest.xml:24:13-79

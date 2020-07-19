@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_title.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/src/main/res/layout/fragment_title.xml"
+    },
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_won.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/src/main/res/layout/fragment_game_won.xml"
+    },
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/src/main/res/layout/fragment_game.xml"
+    },
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_over.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/src/main/res/layout/fragment_game_over.xml"
+    }
+]

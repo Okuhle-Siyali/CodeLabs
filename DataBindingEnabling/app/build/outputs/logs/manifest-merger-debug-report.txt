@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/c9cea531b8ad62ecc77ce38b9da0659b/databinding-adapters-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/96bcf5fef6561a12482db6e10b4ac685/databinding-runtime-3.6.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/627d638bf4b7630a189f418ef9da7e7e/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/42ff5d3cc63429fe6f2a112ff03cb3ad/jetified-core-ktx-1.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/c066a258c0c36389b6768d1919339cf9/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/dc6b38c3bc6172ef189297f37e640bc9/jetified-viewbinding-3.6.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/3aa6240f4ed513b2eb8963618ba679fe/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/8b86dc28010a8f49157b3c6c003fe685/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/6e09e7c21c994ef924ca4d5c28f9136e/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9da31bb25da84d2024a9d9c335163a73/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/1a6b33b5a722a3da7181a0f717ce54b9/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9d696b025589bfa83ded95f9127f4552/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/285d6738444dc33497290d07e8aff505/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/7685673389b9c25ea823c00002c89e29/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/ba9138b41b226ada1cec6a110f381073/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/1ce4f3e81197fa598b4aa476cf8c08be/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/687617ea3b28b050fe4d85d6203f3017/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9e1947489280460b5ba1840f55fbdb54/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/a63580d117e6e46fdc8cdc25f5695e9a/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/ca2cb0018259a8ffabd9c3b82bfd6bff/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/f2651d998610f8e5f1eaea06131d4632/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/4d31b270cfa3d6ab4c051ed11a31f01f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/f07a9a5ef8890143484b6d938e1518b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/84b7ea8ae8cca1a92a3a1646c5f79d16/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/307ed34982087b5632fd7bac4f6b93ec/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/c066a258c0c36389b6768d1919339cf9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/c066a258c0c36389b6768d1919339cf9/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/1ce4f3e81197fa598b4aa476cf8c08be/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/1ce4f3e81197fa598b4aa476cf8c08be/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9e1947489280460b5ba1840f55fbdb54/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9e1947489280460b5ba1840f55fbdb54/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/1ce4f3e81197fa598b4aa476cf8c08be/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.databindingenabling.MainActivity
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/c9cea531b8ad62ecc77ce38b9da0659b/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.6.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/c9cea531b8ad62ecc77ce38b9da0659b/databinding-adapters-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/96bcf5fef6561a12482db6e10b4ac685/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.6.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/96bcf5fef6561a12482db6e10b4ac685/databinding-runtime-3.6.3/AndroidManifest.xml:22:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/627d638bf4b7630a189f418ef9da7e7e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/627d638bf4b7630a189f418ef9da7e7e/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/42ff5d3cc63429fe6f2a112ff03cb3ad/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/42ff5d3cc63429fe6f2a112ff03cb3ad/jetified-core-ktx-1.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/c066a258c0c36389b6768d1919339cf9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/c066a258c0c36389b6768d1919339cf9/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/dc6b38c3bc6172ef189297f37e640bc9/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:3.6.3] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/dc6b38c3bc6172ef189297f37e640bc9/jetified-viewbinding-3.6.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/3aa6240f4ed513b2eb8963618ba679fe/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/3aa6240f4ed513b2eb8963618ba679fe/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/8b86dc28010a8f49157b3c6c003fe685/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/8b86dc28010a8f49157b3c6c003fe685/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/6e09e7c21c994ef924ca4d5c28f9136e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/6e09e7c21c994ef924ca4d5c28f9136e/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9da31bb25da84d2024a9d9c335163a73/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9da31bb25da84d2024a9d9c335163a73/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/1a6b33b5a722a3da7181a0f717ce54b9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/1a6b33b5a722a3da7181a0f717ce54b9/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9d696b025589bfa83ded95f9127f4552/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9d696b025589bfa83ded95f9127f4552/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/285d6738444dc33497290d07e8aff505/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/285d6738444dc33497290d07e8aff505/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/7685673389b9c25ea823c00002c89e29/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/7685673389b9c25ea823c00002c89e29/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/ba9138b41b226ada1cec6a110f381073/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/ba9138b41b226ada1cec6a110f381073/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/1ce4f3e81197fa598b4aa476cf8c08be/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/1ce4f3e81197fa598b4aa476cf8c08be/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/687617ea3b28b050fe4d85d6203f3017/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/687617ea3b28b050fe4d85d6203f3017/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9e1947489280460b5ba1840f55fbdb54/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/9e1947489280460b5ba1840f55fbdb54/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/a63580d117e6e46fdc8cdc25f5695e9a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/a63580d117e6e46fdc8cdc25f5695e9a/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/ca2cb0018259a8ffabd9c3b82bfd6bff/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/ca2cb0018259a8ffabd9c3b82bfd6bff/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/f2651d998610f8e5f1eaea06131d4632/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/f2651d998610f8e5f1eaea06131d4632/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/4d31b270cfa3d6ab4c051ed11a31f01f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/4d31b270cfa3d6ab4c051ed11a31f01f/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/f07a9a5ef8890143484b6d938e1518b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/f07a9a5ef8890143484b6d938e1518b5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/84b7ea8ae8cca1a92a3a1646c5f79d16/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/84b7ea8ae8cca1a92a3a1646c5f79d16/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/307ed34982087b5632fd7bac4f6b93ec/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/okuhle.siyali/.gradle/caches/transforms-2/files-2.1/307ed34982087b5632fd7bac4f6b93ec/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+		ADDED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/okuhle.siyali/workspace/CodeLabs/DataBindingEnabling/app/src/main/AndroidManifest.xml

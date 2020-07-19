@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_tracker.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/src/main/res/layout/fragment_sleep_tracker.xml"
+    },
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item_sleep_night.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/src/main/res/layout/list_item_sleep_night.xml"
+    },
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/list_item_sleep_night_linear.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/src/main/res/layout/list_item_sleep_night_linear.xml"
+    },
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_quality.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/src/main/res/layout/fragment_sleep_quality.xml"
+    },
+    {
+        "merged": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_sleep_detail.xml",
+        "source": "/Users/okuhle.siyali/workspace/CodeLabs/HeaderRecyclerView/app/src/main/res/layout/fragment_sleep_detail.xml"
+    }
+]

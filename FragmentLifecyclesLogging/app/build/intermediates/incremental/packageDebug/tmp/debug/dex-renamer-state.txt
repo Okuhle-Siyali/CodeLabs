@@ -1,0 +1,4 @@
+#Sat Jul 18 17:04:48 SAST 2020
+base.0=/Users/okuhle.siyali/workspace/CodeLabs/FragmentLifecyclesLogging/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
